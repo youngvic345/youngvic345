@@ -26,24 +26,24 @@ I build business systems that remove manual work. Most of what I do sits between
 
 <table>
   <tr>
-    <td><img src="assets/till.svg" alt="Retail till and bank bridge" /></td>
-    <td><img src="assets/pipeline.svg" alt="Self-healing reporting pipeline" /></td>
+    <td><a href="projects/retail-till-and-bank-bridge.md"><img src="assets/till.svg" alt="Retail till and bank bridge" /></a></td>
+    <td><a href="projects/reporting-pipeline.md"><img src="assets/pipeline.svg" alt="Self-healing reporting pipeline" /></a></td>
   </tr>
   <tr>
-    <td><img src="assets/platform.svg" alt="Business analytics platform" /></td>
-    <td><img src="assets/etims.svg" alt="Tax-invoice and cost reconciliation" /></td>
+    <td><a href="projects/business-analytics-platform.md"><img src="assets/platform.svg" alt="Business analytics platform" /></a></td>
+    <td><a href="projects/tax-invoice-and-cost-reconciliation.md"><img src="assets/etims.svg" alt="Tax-invoice and cost reconciliation" /></a></td>
   </tr>
   <tr>
-    <td><img src="assets/ai-docs.svg" alt="AI document processing" /></td>
-    <td><img src="assets/trading.svg" alt="Trading research tools" /></td>
+    <td><a href="projects/ai-document-processing.md"><img src="assets/ai-docs.svg" alt="AI document processing" /></a></td>
+    <td><a href="projects/trading-research-platform.md"><img src="assets/trading.svg" alt="Trading research tools" /></a></td>
   </tr>
   <tr>
-    <td><img src="assets/configurator.svg" alt="Product configurator" /></td>
-    <td><img src="assets/atlas.svg" alt="Atlas OS interface" /></td>
+    <td><a href="projects/cake-configurator.md"><img src="assets/configurator.svg" alt="Product configurator" /></a></td>
+    <td><a href="projects/atlas-ui.md"><img src="assets/atlas.svg" alt="Atlas OS interface" /></a></td>
   </tr>
 </table>
 
-> Most of this work is for private clients, so the code lives in private repositories. Happy to walk through any of it in a call.
+**Click any card for the full write-up.** Most of this work is for private clients, so the code lives in private repositories and the write-ups leave out client names and figures. Happy to walk through any of it in a call.
 
 <img src="assets/h-stack.svg" alt="Toolbox" width="100%" />
 
