@@ -31,19 +31,10 @@ I build business systems that remove manual work: ERP and POS integrations, auto
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,postgres,docker,nodejs,netlify,cloudflare,git,linux&perline=12" alt="skills" />
 </p>
 
-## 📊 GitHub stats
+## 📊 Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=youngvic345&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngvic345&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youngvic345&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youngvic345&theme=tokyo-night&hide_border=true&area=true" alt="activity" />
+  <img src="https://streak-stats.demolab.com/?user=youngvic345&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ## 📫 Get in touch
